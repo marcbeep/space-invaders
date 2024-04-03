@@ -1,6 +1,6 @@
 # Space Invaders - Demonstrating Object Oriented Principles
 
-[cover](/cover.png)
+![cover](/cover.png)
 
 This uses a simulated game printed out to the terminal. To compile, change the directory to the folder that contains src and run:
 
